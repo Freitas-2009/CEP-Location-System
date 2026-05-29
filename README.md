@@ -1,4 +1,4 @@
-# 📡 CEP Locator System
+# 📡 CEP Location System
 
 Sistema web desenvolvido em **Streamlit** para consulta de CEP com retorno de informações geográficas e visualização em mapa.
 
